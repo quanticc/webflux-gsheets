@@ -1,0 +1,1 @@
+Needs a P12 certificate of a service account in a class path folder.
